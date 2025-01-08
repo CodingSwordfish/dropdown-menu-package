@@ -1,0 +1,35 @@
+{
+  "name": "wagoki-dropdown-menu",
+  "version": "1.0.0",
+  "description": "A reusable dropdown menu module for web applications",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"No tests specified\" && exit 0",
+    "build": "echo \"Add a build step if needed\""
+   
+  },
+  "keywords": [
+    "dropdown",
+    "menu",
+    "reusable",
+    "module",
+    "web",
+    "frontend"
+  ],
+  "author": "bryan wagoki",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CodingSwordfish/wagoki-dropdown-menu.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CodingSwordfish/wagoki-dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/CodingSwordfish/wagoki-dropdown-menu#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
